@@ -1,0 +1,15 @@
+---
+title: "revision"
+format: html
+editor: visual
+---
+
+## Primero lo primero
+
+Lo primero es buscar y armar una lista de los datos normativos publicados en cada país.
+
+| Pais | Link |
+|------|------|
+|      |      |
+|      |      |
+|      |      |
