@@ -4,12 +4,34 @@ format: html
 editor: visual
 ---
 
+## Informacion de la sesion
+
+```{r sesion}
+sessionInfo()
+```
+
+## Paquetes utilizados
+
+```{r paquetes}
+
+
+```
+
 ## Primero lo primero
 
 Lo primero es buscar y armar una lista de los datos normativos publicados en cada país.
 
-| Pais | Link |
-|------|------|
-|      |      |
-|      |      |
-|      |      |
+| Pais      | Año  | Estimulo | Datos |
+|-----------|------|----------|-------|
+| Argentina |      | imagen   |       |
+| España    | 1999 | imagen   |       |
+| España    | 2001 | imagen   |       |
+| España    | 2013 | imagen   |       |
+| Portugal  | 2015 | imagen   | listo |
+|           |      |          |       |
+|           |      |          |       |
+|           |      |          |       |
+|           |      |          |       |
+|           |      |          |       |
+|           |      |          |       |
+|           |      |          |       |
